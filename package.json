@@ -6,8 +6,12 @@
     "axios": "^0.16.1",
     "material-ui": "^0.17.4",
     "material-ui-build": "0.17.3",
+    "isomorphic-fetch": "^2.2.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0",
     "react-notify-toast": "^0.1.5",
     "react-router-dom": "^4.1.1",
     "react-tap-event-plugin": "^2.0.1"
