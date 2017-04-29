@@ -1,0 +1,6 @@
+/**
+ * Created by sourabh on 29/4/17.
+ */
+export const FETCH_EVENTS_SUCCESS="FETCH_EVENTS_SUCCESS"
+export const FETCH_EVENTS_STARTED="FETCH_EVENTS_STARTED"
+export const FETCH_EVENTS_ERROR="FETCH_EVENTS_ERROR"
